@@ -13,7 +13,7 @@
   ],
   "dependencies": {
     "angular": "^1.4.0",
-    "intro.js": "git@github.com:abrararies/intro.js.git"
+    "intro.js": "git://github.com/abrararies/intro.js.git#master"
   },
   "devDependencies": {}
 }
